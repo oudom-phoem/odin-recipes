@@ -1,10 +1,28 @@
+.container {
+  margin: 50px auto;
+}
+
 h1 {
   color: #DBA979;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-li, a {
+.recipe-container {
+  margin: 20px auto;
+}
+
+.recipe-link {
   color: #AFD198;
   font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
 }
