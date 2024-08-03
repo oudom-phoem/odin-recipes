@@ -1,5 +1,9 @@
 # Recipes Project
 
+## View the project on web browser
+
+[Odin Recipes](https://phoemoudom.github.io/odin-recipes/)
+
 ## Introduction
 
 Welcome to the Recipes Project, the first project in [The Odin Project](https://www.theodinproject.com/about) curriculum. This project is designed to introduce you to the basics of web development by building a simple website that lists a few recipes. The goal is to gain hands-on experience with HTML, the foundational technology for creating web pages.
